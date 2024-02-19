@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0801484-a311-46a7-9d99-4434703384f4" name="Changes" comment="Fix" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Aerys1994&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="47da8cf6-a355-4a14-9375-057ae8665a81" />
+        <option name="url" value="git@github.com:Aerys1994/BigData.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2bzZZsKvOdouybOTm63XG6bEJ5x" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/andreu.cunill/IdeaProjects/BigData/BosonitBigData/SparkSessionProvider&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\andreu.cunill\IdeaProjects\ScalaEx1\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\andreu.cunill\IdeaProjects\BigData\BosonitBigData\ScalaEx1\src\main\resources\json" />
+      <recent name="C:\Users\andreu.cunill\IdeaProjects\BigData\BosonitBigData\ScalaEx1" />
+      <recent name="C:\Users\andreu.cunill\IdeaProjects\ScalaEx1\src\main\resources" />
+      <recent name="C:\Users\andreu.cunill\IdeaProjects\ScalaEx1\src" />
+      <recent name="C:\Users\andreu.cunill\IdeaProjects\ScalaEx1\src\main\scala" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="ScalaEx1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0801484-a311-46a7-9d99-4434703384f4" name="Changes" comment="" />
+      <created>1707219928153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707219928153</updated>
+    </task>
+    <task id="LOCAL-00001" summary="test upload">
+      <option name="closed" value="true" />
+      <created>1707392453412</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707392453412</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test upload">
+      <option name="closed" value="true" />
+      <created>1707482149902</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707482149902</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test upload">
+      <option name="closed" value="true" />
+      <created>1707482235752</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707482235752</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test upload">
+      <option name="closed" value="true" />
+      <created>1707482346663</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707482346663</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test upload">
+      <option name="closed" value="true" />
+      <created>1707482569836</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707482569836</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test upload">
+      <option name="closed" value="true" />
+      <created>1707482656519</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707482656519</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test upload">
+      <option name="closed" value="true" />
+      <created>1707482665973</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707482665973</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test upload">
+      <option name="closed" value="true" />
+      <created>1707482761567</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707482761567</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test upload">
+      <option name="closed" value="true" />
+      <created>1707482883697</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1707482883697</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test upload">
+      <option name="closed" value="true" />
+      <created>1707722674309</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1707722674309</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test upload">
+      <option name="closed" value="true" />
+      <created>1707722683998</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1707722683998</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test upload">
+      <option name="closed" value="true" />
+      <created>1707722732768</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1707722732768</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Revert &quot;test upload&quot;&#10;&#10;This reverts commit 36a14114">
+      <option name="closed" value="true" />
+      <created>1707722831605</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1707722831605</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Revert &quot;test upload&quot;&#10;&#10;This reverts commit 36a14114">
+      <option name="closed" value="true" />
+      <created>1707722966086</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1707722966086</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Revert &quot;test upload&quot;&#10;&#10;This reverts commit 36a14114">
+      <option name="closed" value="true" />
+      <created>1707723066076</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1707723066076</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Revert &quot;test upload&quot;&#10;&#10;This reverts commit 36a14114">
+      <option name="closed" value="true" />
+      <created>1707725546092</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1707725546092</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Revert &quot;test upload&quot;">
+      <option name="closed" value="true" />
+      <created>1707726519805</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1707726519805</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Test">
+      <option name="closed" value="true" />
+      <created>1707809075922</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1707809075922</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Fix">
+      <option name="closed" value="true" />
+      <created>1707813179938</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1707813179938</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test upload" />
+    <MESSAGE value="Revert &quot;test upload&quot;&#10;&#10;This reverts commit 36a14114" />
+    <MESSAGE value="Revert &quot;test upload&quot;" />
+    <MESSAGE value="First Ex done" />
+    <MESSAGE value="Test" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="Fix" />
+    <MESSAGE value="Exercise fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise fix" />
+  </component>
+</project>

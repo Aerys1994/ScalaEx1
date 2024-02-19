@@ -1,0 +1,17 @@
+src/main/resources/Fire_Incidents.csv
+target/classes/Fire_Incidents.csv
+src/main/resources/sf-fire-calls.csv
+target/classes/sf-fire-calls.csv
+src/main/resources/departuredelays.csv
+target/classes/departuredelays.csv
+src/main/resources/json/2010-summary.json
+src/main/resources/json/2013-summary.json
+src/main/resources/json/2012-summary.json
+src/main/resources/json/2014-summary.json
+src/main/resources/json/2015-summary.json
+src/main/resources/csv/2010-summary.csv
+src/main/resources/csv/2011-summary.csv
+src/main/resources/csv/2012-summary.csv
+src/main/resources/csv/2013-summary.csv
+src/main/resources/csv/2014-summary.csv
+src/main/resources/csv/2015-summary.csv
